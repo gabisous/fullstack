@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    gap: 2vh;
+    flex-wrap: wrap;
+}
+.pado-card{
+    border: 1px solid grey;
+    max-width: 200px;   
+    text-align: center;
+    border-radius: 5px;
+    img{
+        width: 100%;
+     }
+        
+}
+
+ 
